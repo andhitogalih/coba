@@ -1,6 +1,8 @@
 # coba
 
-#  tipe data 
+#  **tipe data** 
 int
-float 
+
+float
+
 boolean
